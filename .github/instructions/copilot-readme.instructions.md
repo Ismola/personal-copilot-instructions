@@ -19,3 +19,4 @@ applyTo: "**"
 - Si el proyecto tiene pruebas, explica cómo ejecutarlas.
 - Si el proyecto tiene integración continua o despliegue automatizado, documenta el flujo básico.
 - Si el README reemplaza o depreca otro archivo, indícalo claramente.
+- **Utiliza emojis y elementos visuales llamativos (tablas, listas, bloques destacados) para mejorar la legibilidad y hacer el README más atractivo.**

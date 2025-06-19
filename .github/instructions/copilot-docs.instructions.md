@@ -14,3 +14,4 @@ applyTo: "**"
 - Si la documentación es para scripts o herramientas, explica los argumentos y opciones disponibles.
 - Usa el idioma predominante del proyecto.
 - Si la documentación reemplaza o depreca otra, indícalo claramente.
+- **Utiliza emojis y elementos visuales llamativos (tablas, listas, bloques destacados) para mejorar la legibilidad y hacer la documentación más atractiva.**
