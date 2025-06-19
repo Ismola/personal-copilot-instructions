@@ -86,6 +86,3 @@ A continuación, se resumen las reglas incluidas:
 
 > ⚡ **Con estas reglas, Copilot será mucho más útil, consistente y alineado con tu equipo o proyecto.**
 
----
-
-> 📝 **Este README reemplaza cualquier documentación previa sobre la estructura y propósito de este repositorio.**
