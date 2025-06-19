@@ -69,4 +69,23 @@ No se requieren variables de entorno para el funcionamiento de este repositorio.
 
 ---
 
+## 🧠 ¿Cómo cambia Copilot con estas instrucciones?
+
+Al añadir estas instrucciones a tu proyecto, Copilot adaptará su comportamiento para ajustarse a tus convenciones y necesidades.  
+A continuación, se resumen las reglas incluidas:
+
+| Archivo de instrucciones                       | ¿Qué cambia en Copilot?                                                                                 |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| `copilot-coding.instructions.md`               | Genera código más claro, legible y seguro, siguiendo tus convenciones y buenas prácticas.               |
+| `copilot-docs.instructions.md`                 | Crea documentación atractiva, concisa y útil, con ejemplos y emojis para mejor legibilidad.             |
+| `copilot-explains.instructions.md`             | Explica el código de forma clara, en pasos si es complejo, y menciona riesgos, patrones y contexto.     |
+| `copilot-review.instructions.md`               | Revisa el código buscando errores, mejoras y cumplimiento de convenciones, sugiriendo refactorizaciones.|
+| `commit-messages.instructions.md`              | Genera mensajes de commit siguiendo Conventional Commits, con emojis y descripciones detalladas.         |
+| `copilot-api-doc.instructions.md`              | Documenta APIs de forma estructurada, con ejemplos, parámetros, respuestas y notas de seguridad.         |
+| `copilot-readme.instructions.md`               | Crea READMEs claros, visuales y completos, explicando estructura, comandos y configuración del proyecto.|
+
+> ⚡ **Con estas reglas, Copilot será mucho más útil, consistente y alineado con tu equipo o proyecto.**
+
+---
+
 > 📝 **Este README reemplaza cualquier documentación previa sobre la estructura y propósito de este repositorio.**
