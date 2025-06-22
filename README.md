@@ -56,12 +56,6 @@ Incluye instrucciones para generación de código, documentación, mensajes de c
 
 ---
 
-## 🔑 Variables de entorno requeridas
-
-No se requieren variables de entorno para el funcionamiento de este repositorio.
-
----
-
 ## 💡 Notas adicionales
 
 - Si tu proyecto es una API, consulta el archivo `API_DOC.md` para ver ejemplos de documentación generada.
